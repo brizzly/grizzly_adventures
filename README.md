@@ -1,13 +1,12 @@
 ![Grizzly](logo.png)
-# grizzly_adventures
-Source code and assets for Grizzly Adventures game
+# Grizzly Adventures
+Source code and assets for Grizzly Adventures game, famous 2D platformer game from 2000's
 
 PC, macOS, iOS
 
-Requirement : https://www.glfw.org/download
+Requirement : Lib glfw3 https://www.glfw.org/download
 
 macOS: https://apps.apple.com/us/app/grizzly-retro-platformer/id413938360?mt=12
-
 iOS: https://apps.apple.com/us/app/grizzly-adventures-crazy-bear-platformer/id357410945
 
 
