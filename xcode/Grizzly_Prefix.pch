@@ -1,0 +1,14 @@
+//
+// Prefix header for all source files of the 'GLFullScreen' target in the 'GLFullScreen' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#define SYS_ONSTART_ANIM @"SYS_ONSTART_ANIM"
+#define SYS_ONSTOP_ANIM @"SYS_ONSTOP_ANIM"
+#define SYS_ON_EXIT_FULLSCREEN @"SYS_ON_EXIT_FULLSCREEN"
+
+
+

@@ -1,0 +1,6 @@
+
+
+xattr -cr /Users/julien/Documents/GIT/jmapp/MAC/Grizzly/assets/gfx/
+
+
+

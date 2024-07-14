@@ -1,0 +1,19 @@
+ Software License Agreement
+                                                           
+
+
+This Software License Agreement (the "Agreement") is a legal agreement between you, the end user (the "Licensee"), and Jadeware. By continuing the installation of this program, by loading or running the program, or by placing or copying this program onto your computer hard drive, computer RAM or other storage, you are agreeing to be bound by the terms of this Agreement.
+
+
+1.	SOFTWARE LICENSE
+
+Jadeware hereby grants, and Licensee hereby accepts, a license to operate the Software provided hereunder in accordance with the following terms:
+
+(a)  jmApp  grants to Licensee a limited, non-exclusive, nontransferable, non-assignable royalty-free license to use one (1) copy of the executable (binary) code of the Software on one (1) CPU located on Licensee's premises.  
+
+(b)  Except as otherwise expressly provided herein, all rights are exclusively reserved to Jadeware.  Licensee shall not rent, lease, sell, sublicense, assign, mortgage, pledge, or otherwise transfer or encumber the Software, including any accompanying Documentation and information.  Licensee shall not reverse engineer, de-compile, or disassemble the Software except to the extent that this restriction is expressly prohibited by applicable law.  Jadeware  shall retain title and all ownership rights to the Software. 
+
+(c)  The Software and related information is proprietary and confidential information of Jadeware .  Licensee agrees not to disclose or provide the Software, Documentation, or any related information (including the Software features or the results of use) to any third party or use the Software for any purpose other than expressly provided in this Agreement. However, Licensee may disclose confidential information in accordance with judicial or other governmental order, provided Licensee shall give Jadeware reasonable written notice prior to such disclosure and shall comply with any applicable protective order or equivalent.  Further, Licensee shall not be obligated to maintain the confidentiality of information which Licensee can prove: (i) is already known to Licensee without an obligation to maintain the same as confidential; (ii) becomes publicly known through no wrongful act of Licensee; (iii) is rightfully received from a third party without breach of an obligation of confidentiality owed to Jadeware ; or (iv) was independently developed by Licensee prior to receipt of the Software. This provision shall survive the termination or expiration of this Agreement with respect to any information that has not been made public by Jadeware .
+
+2.  	WARRANTY; DISCLAIMER OF WARRANTIES.
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Jadeware  FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.  THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH LICENSEE.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL Jadeware , ITS SHAREHOLDERS, OFFICERS, EMPLOYEES, AGENTS, OR SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, 
