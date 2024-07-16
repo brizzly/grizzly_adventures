@@ -1,7 +1,7 @@
 ![Grizzly](logo.png)
 # Grizzly Adventures
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/jmapp)
+<a href="https://www.buymeacoffee.com/jmapp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Source code and assets for Grizzly Adventures game, famous 2D platformer game from 2000's
 
